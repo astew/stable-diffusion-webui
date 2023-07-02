@@ -1,0 +1,12 @@
+[submodule "extensions/adetailer"]
+	path = extensions/adetailer
+	url = https://github.com/Bing-su/adetailer
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "extensions/stable-diffusion-webui-images-browser"]
+	path = extensions/stable-diffusion-webui-images-browser
+	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
+[submodule "extensions/sd-dynamic-prompts"]
+	path = extensions/sd-dynamic-prompts
+	url = https://github.com/adieyal/sd-dynamic-prompts
